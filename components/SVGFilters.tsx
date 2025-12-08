@@ -1,6 +1,6 @@
 export function SVGFilters() {
   return (
-    <svg className="h-0 w-0">
+    <svg className="w-0 h-0">
       <defs>
         {Array.from({ length: 5 }).map((_, index) => (
           <filter id={`squiggle-${index}`} key={index}>

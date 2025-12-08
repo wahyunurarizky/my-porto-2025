@@ -4,9 +4,9 @@ import { Button } from './ui/button';
 
 export async function Header() {
   return (
-    <header className='header absolute left-0 right-0 top-0 z-50 h-32 py-6 px-6'>
+    <header className='absolute top-0 left-0 right-0 z-50 h-32 px-6 py-6 header'>
       <div className='mx-auto grid w-full grid-cols-[auto_auto] max-w-6xl items-center gap-6 md:grid-cols-[1fr_auto_1fr]'>
-        <Logo className='text-brand-purple h-12' />
+        <Logo className='h-12 text-brand-purple' />
         <nav aria-label='Main' className='col-span-full row-start-2 md:col-span-1 md:col-start-2 md:row-start-1'>
           <ul className='flex flex-wrap items-center justify-center gap-8'>
             <li>

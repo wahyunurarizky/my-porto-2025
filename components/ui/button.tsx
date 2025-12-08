@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 import { FaPhone, FaPlus } from 'react-icons/fa6';
 
 const buttonVariants = cva(
-  'active:cursor-grabbing cursor-pointer button-cutout group mx-4 inline-flex items-center bg-gradient-to-b from-25% to-75% bg-[length:100%_400%] font-bold transition-[filter,background-position] duration-300 hover:bg-bottom',
+  'active:cursor-grabbing cursor-pointer button-cutout group mx-4 inline-flex items-center bg-gradient-to-b from-25% to-75% bg-[length:100%_400%] font-bold transition-[filter,background-position] duration-300 hover:bg-bottom active:bg-bottom',
   {
     variants: {
       variant: {
@@ -63,7 +63,7 @@ function Button({
           </div>
 
           {/* Divider */}
-          <div className='w-px self-stretch bg-black/25' />
+          <div className='self-stretch w-px bg-black/25' />
         </>
       )}
 
