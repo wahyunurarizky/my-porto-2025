@@ -1,0 +1,16 @@
+[
+  {
+    "image": "/porto.png",
+    "title": "SIAPP",
+    "description": "SIAPP is a web-based application designed to streamline the management of academic programs and student data for educational institutions. It offers features such as course scheduling, student enrollment, grade tracking, and reporting tools to enhance administrative efficiency and improve the overall educational experience.",
+    "link": "https://siapp.example.com",
+    "stack": [
+      "React",
+      "Node.js",
+      "PostgreSQL"
+    ],
+    "category": "Web Application",
+    "year": 2023,
+    "type": "Personal Project"
+  }
+]

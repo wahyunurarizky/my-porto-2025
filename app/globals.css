@@ -201,3 +201,19 @@
     }
   }
 }
+
+.slide-in-hidden {
+  opacity: 0;
+  transform: translateX(-100px);
+}
+
+@keyframes slide-in {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}

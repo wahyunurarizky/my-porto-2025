@@ -1,5 +1,5 @@
-"use client";
-import React, { ReactNode, useEffect, useRef } from "react";
+'use client';
+import React, { ReactNode, useEffect, useRef } from 'react';
 
 type Props = {
   children: ReactNode;
@@ -21,7 +21,7 @@ export function SlideIn({ children, delay = 0, duration = 0.6 }: Props) {
           observer.unobserve(element);
         }
       },
-      { threshold: 0, rootMargin: "-150px" }
+      { threshold: 0, rootMargin: '-50px' }
     );
 
     observer.observe(element);
@@ -30,7 +30,7 @@ export function SlideIn({ children, delay = 0, duration = 0.6 }: Props) {
   }, [delay, duration]);
 
   return (
-    <div ref={elementRef} className="slide-in-hidden">
+    <div ref={elementRef} className='slide-in-hidden'>
       {children}
     </div>
   );

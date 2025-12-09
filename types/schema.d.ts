@@ -7,3 +7,14 @@ interface TextAndImageProps {
   index: number;
   imageOnLeft?: boolean;
 }
+
+interface IPortfolio {
+  image: string;
+  title: string;
+  description: string;
+  link: string;
+  stack: string[];
+  category: string;
+  year: number;
+  type: string;
+}
