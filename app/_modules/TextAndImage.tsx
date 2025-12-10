@@ -32,7 +32,7 @@ const TextAndImage = ({ theme, heading, body, imageUrl, quote, index, imageOnLef
             </Heading>
           </SlideIn>
           <SlideIn>
-            <div className='max-w-md text-lg leading-relaxed'>{body}</div>
+            <div className='max-w-md tex-sm md:text-lg leading-relaxed'>{body}</div>
           </SlideIn>
           <SlideIn>
             <Button variant={theme === 'Lime' ? 'orange' : 'lime'}>{quote}</Button>
