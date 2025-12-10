@@ -7,7 +7,7 @@ import portfolios from '@/data/portfolios.json';
 
 const Projects = (): JSX.Element => {
   return (
-    <Bounded className='bg-texture bg-brand-gray'>
+    <Bounded className='bg-texture bg-brand-gray' id='projects'>
       <SlideIn>
         <Heading className='mb-6 text-center' as='h2'>
           PROJECTS

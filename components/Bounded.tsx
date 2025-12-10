@@ -6,6 +6,7 @@ type BoundedProps = {
   className?: string;
   style?: CSSProperties;
   children: ReactNode;
+  id?: string;
 };
 
 export function Bounded({ as: Comp = 'section', className, children, ...restProps }: BoundedProps) {

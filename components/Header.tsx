@@ -27,7 +27,7 @@ export async function Header() {
           </ul>
         </nav>
         <div className='justify-self-end'>
-          <Button icon='call' size='sm' variant='purple' aria-label='Cart (1)'>
+          <Button icon='call' size='sm' variant='purple' href='#contact' aria-label='Cart (1)'>
             Contact Me
           </Button>
         </div>

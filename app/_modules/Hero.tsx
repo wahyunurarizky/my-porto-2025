@@ -11,7 +11,7 @@ const Hero = () => {
       </div>
       <div className='absolute inset-0 mx-auto mt-24 grid max-w-6xl grid-rows-[1fr_auto] px-6 py-16'>
         <div className='flex justify-end w-full tracking-wider place-self-start'>
-          <h1 className='font-sans font-bold text-right text-7xl'>
+          <h1 className='font-sans font-bold text-right text-6xl md:text-7xl'>
             Breaking Things,
             <br /> Learning More
           </h1>
@@ -20,7 +20,8 @@ const Hero = () => {
           <div>
             <p className='max-w-xl text-xl font-semibold tracking-wider'>Blending logic and creativity to craft meaningful digital experiences.</p>
           </div>
-          <Button variant='orange' icon='skateboard'>
+
+          <Button variant='orange' icon='skateboard' href='#about'>
             My Profile
           </Button>
         </div>

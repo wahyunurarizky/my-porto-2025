@@ -13,7 +13,7 @@ export function Heading({ as: Comp = 'h1', className, children, size = 'lg' }: H
       className={clsx(
         'font-sans uppercase',
         size === 'xl' && 'text-8xl',
-        size === 'lg' && 'text-7xl',
+        size === 'lg' && 'text-5xl md:text-7xl',
         size === 'md' && 'text-5xl',
         size === 'sm' && 'text-4xl',
         size === 'xs' && 'text-xl',

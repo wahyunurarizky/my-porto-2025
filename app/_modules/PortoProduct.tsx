@@ -88,7 +88,7 @@ export function PortoProduct({ portfolio }: { portfolio: IPortfolio }) {
       {/* MODAL */}
       {open && (
         <div ref={overlayRef} className='fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm' onClick={closeModal}>
-          <div ref={modalRef} className='relative mx-4 max-w-lg rounded-xl bg-white p-6 shadow-2xl' onClick={(e) => e.stopPropagation()}>
+          <div ref={modalRef} className='relative mx-4 max-w-4xl rounded-xl bg-white p-6 shadow-2xl' onClick={(e) => e.stopPropagation()}>
             <h2 className='text-2xl font-bold mb-2'>
               {portfolio.title} ({portfolio.year})
             </h2>

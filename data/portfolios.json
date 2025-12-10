@@ -1,16 +1,245 @@
 [
   {
-    "image": "/porto.png",
-    "title": "SIAPP",
-    "description": "SIAPP is a web-based application designed to streamline the management of academic programs and student data for educational institutions. It offers features such as course scheduling, student enrollment, grade tracking, and reporting tools to enhance administrative efficiency and improve the overall educational experience.",
-    "link": "https://siapp.example.com",
+    "image": "/porto/porto-rplv3.png",
+    "title": "Pink Shop",
+    "description": "Ecommerce website created with codeigniter for assessment in university",
+    "link": "https://youtu.be/uC5oIRRlWkI",
     "stack": [
-      "React",
-      "Node.js",
-      "PostgreSQL"
+      "Codeigniter",
+      "Bootstrap",
+      "My SQL",
+      "JQuery"
+    ],
+    "category": "Web Application",
+    "year": 2021,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-puskarier.png",
+    "title": "Puskarier",
+    "description": "Application for job search and career development for UIN Jakarta alumni",
+    "link": "https://puskarier.vercel.app",
+    "stack": [
+      "React JS",
+      "Laravel",
+      "My SQL",
+      "SCSS"
+    ],
+    "category": "Web Application",
+    "year": 2021,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-siapp.png",
+    "title": "SIAPP",
+    "description": "Application for submission of research by UIN Jakarta researchers",
+    "link": "https://siapp.uinjkt.ac.id",
+    "stack": [
+      "Laravel",
+      "Tailwind",
+      "Bootstrap",
+      "MySQL"
+    ],
+    "category": "Web Application",
+    "year": 2021,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-chat-app.png",
+    "title": "Chat app",
+    "description": "Realtime chat app using react and firebase realtime database",
+    "link": "https://chat-web-arzky.web.app",
+    "stack": [
+      "React JS",
+      "Firebase Realtime DB",
+      "Firebase auth",
+      "SCSS"
+    ],
+    "category": "Web Application",
+    "year": 2021,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-wahyu-coin.png",
+    "title": "Wahyu Coin",
+    "description": "Create own blockhain network",
+    "link": "https://wahyu-coin.vercel.app",
+    "stack": [
+      "NodeJS",
+      "ReactJS",
+      "Redis"
     ],
     "category": "Web Application",
     "year": 2023,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-ceres.png",
+    "title": "Mom's Day Out Ceres Meses",
+    "description": "Create event website for Ceres Meses celebrate Mom's Day Out",
+    "link": "https://momsdayout.ceresmeses.co.id",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2023,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-kober.png",
+    "title": "Berburu Vespa Kober Mie",
+    "description": "Sayembara mie kober app to get vespa",
+    "link": "https://berburuvespa.kobermie.com",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2023,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-petkit.png",
+    "title": "Petkit Indonesia",
+    "description": "Create official website for official distributor Petkit from Indonesia",
+    "link": "https://petkitindonesia.com",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2023,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-petmart.png",
+    "title": "Petmart Indonesia",
+    "description": "Create official website petmart indonesia",
+    "link": "https://petmartindonesia.com",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-holoholo.png",
+    "title": "Holoholo Indonesia",
+    "description": "Create official website holoholo Indonesia",
+    "link": "https://holoholoindonesia.com",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-chakolab.png",
+    "title": "Chakolab Indonesia",
+    "description": "Create official website chakolab Indonesia",
+    "link": "https://chakolabindonesia.com",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-dicegame.png",
+    "title": "Dicegame Avarik Saga",
+    "description": "Developing as Frontend Developer for Dicegame project from Avarik Saga",
+    "link": "https://avariksaga.com/blessings/dicegame",
+    "stack": [
+      "NextJS",
+      "Tailwind",
+      "Web3"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-alba.png",
+    "title": "ALBA UIN MALANG",
+    "description": "Create official website for ALBA UIN Malang",
+    "link": "https://alba.uin-malang.ac.id",
+    "stack": [
+      "Laravel",
+      "Inertia",
+      "ReactJS",
+      "Tailwind",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-taco.png",
+    "title": "Taco",
+    "description": "Revamp website TACO",
+    "link": "https://taco.id",
+    "stack": [
+      "Strapi",
+      "NextJS",
+      "Tailwind"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-mersi.png",
+    "title": "Merdeka Siber",
+    "description": "Revamp Merdeka Siber",
+    "link": "https://merdekasiber.com",
+    "stack": [
+      "Wordpress",
+      "Mailchimp",
+      "Elementor"
+    ],
+    "category": "Web Application",
+    "year": 2024,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-rapih.png",
+    "title": "Rapih.in",
+    "description": "ERP system for small business",
+    "link": "https://rapih.in",
+    "stack": [
+      "Laravel",
+      "Architec UI",
+      "Bootstrap",
+      "PostgreSQL"
+    ],
+    "category": "Web Application",
+    "year": 2024,
     "type": "Personal Project"
   }
 ]

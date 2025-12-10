@@ -6,7 +6,7 @@ const textAndImages: TextAndImageProps[] = [
     theme: 'Blue',
     heading: 'Who I Am',
     body: 'Hello! I am Wahyu Nur Arizky, a passionate developer specializing in crafting engaging and dynamic web experiences. With a keen eye for design and a love for coding, I bring ideas to life through innovative solutions.',
-    imageUrl: '/my2.png',
+    imageUrl: '/about/potter.png',
     imageOnLeft: false,
     quote: 'Every journey starts with an introduction.'
   },
@@ -15,7 +15,7 @@ const textAndImages: TextAndImageProps[] = [
     theme: 'Orange',
     heading: 'What I Learned',
     body: 'I have honed my skills in various web technologies, including React, Next.js, and TypeScript. My experience spans from building responsive user interfaces to implementing complex backend functionalities, ensuring seamless performance across all devices.',
-    imageUrl: '/books.png',
+    imageUrl: '/about/spongebob.png',
     imageOnLeft: true,
     quote: 'Learning shaped who I am today.'
   },
@@ -24,7 +24,7 @@ const textAndImages: TextAndImageProps[] = [
     theme: 'Navy',
     heading: 'My Work',
     body: 'Over the years, I have contributed to numerous projects, ranging from small business websites to large-scale web applications. My work focuses on delivering high-quality code, optimizing user experience, and collaborating effectively with cross-functional teams.',
-    imageUrl: '/work.png',
+    imageUrl: '/about/luffy.png',
     imageOnLeft: false,
     quote: 'From ideas to shipped features.'
   },
@@ -33,7 +33,7 @@ const textAndImages: TextAndImageProps[] = [
     theme: 'Lime',
     heading: 'What’s Next',
     body: 'Looking ahead, I am excited to continue expanding my expertise in emerging web technologies and frameworks. I aim to take on more challenging projects that push the boundaries of web development and contribute to innovative solutions that make a difference.',
-    imageUrl: '/goals.png',
+    imageUrl: '/about/minions.png',
     imageOnLeft: true,
     quote: 'The best part? My story is just beginning.'
   }

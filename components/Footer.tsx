@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 export async function Footer() {
   return (
-    <footer className='bg-texture bg-zinc-900 text-white overflow-hidden'>
+    <footer className='bg-texture bg-zinc-900 text-white overflow-hidden' id='contact'>
       <div className='relative h-[75vh] p-16 md:aspect-auto'>
         <Image src='/bg2.jpg' alt='' fill className='object-cover opacity-70' />
         <FooterPhysics

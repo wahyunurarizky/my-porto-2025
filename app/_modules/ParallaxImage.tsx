@@ -65,7 +65,7 @@ export function ParallaxImage({ foregroundImage, backgroundImage, className }: P
       </div>
 
       <div ref={foregroundRef} className='col-start-1 row-start-1 transition-transform h-full w-full place-items-center'>
-        <Image src={foregroundImage} alt='' className='h-full max-h-[500px] w-auto' width={500} height={600} />
+        <Image src={foregroundImage} alt='' fill className='max-w-[320px] object-contain mx-auto' />
       </div>
     </div>
   );
