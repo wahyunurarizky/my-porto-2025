@@ -34,7 +34,9 @@ export async function Footer() {
             </Link>
           </li>
         </ul>
-        <div className='w-full justify-center flex text-center mt-10'>© {new Date().getFullYear()} Wahyu Nur Arizky. Some Rights Maybe Reserved, Gue Lupa</div>
+        <div className='w-full justify-center flex text-center mt-10'>
+          © {new Date().getFullYear()} Wahyu Nur Arizky. Some Rights Maybe Reserved, Forgive me
+        </div>
       </Bounded>
       {/* List of links */}
     </footer>

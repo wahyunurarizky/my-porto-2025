@@ -241,5 +241,35 @@
     "category": "Web Application",
     "year": 2024,
     "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-fungoofun.png",
+    "title": "Fungoofun.id",
+    "description": "Ecommerce website for fungoofun.id, an online shop that sells bags imported from China",
+    "link": "https://fungoofun.id",
+    "stack": [
+      "Wordpress",
+      "Woocommerce",
+      "Elementor"
+    ],
+    "category": "Web Application",
+    "year": 2026,
+    "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-trac.png",
+    "title": "TRAC",
+    "description": "Involved in developing TRAC, a web application for managing transportation services, including booking, scheduling, and tracking.",
+    "link": "https://tractogo.trac.astra.co.id",
+    "stack": [
+      "Express",
+      "SQL",
+      "Typescript",
+      "Azure",
+      "Redis"
+    ],
+    "category": "Web Application",
+    "year": "2024 - 2026",
+    "type": "Personal Project"
   }
 ]

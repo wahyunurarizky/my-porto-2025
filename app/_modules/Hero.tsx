@@ -12,8 +12,8 @@ const Hero = () => {
       <div className='absolute inset-0 mx-auto mt-24 grid max-w-6xl grid-rows-[1fr_auto] px-6 py-16'>
         <div className='flex justify-end w-full tracking-wider place-self-start'>
           <h1 className='font-sans font-bold text-right text-6xl md:text-7xl'>
-            Breaking Things,
-            <br /> Learning More
+            Just making
+            <br /> things better.
           </h1>
         </div>
         <div className='grid grid-cols-1 gap-8 md:grid-cols-[1fr_auto] md:items-center w-full'>

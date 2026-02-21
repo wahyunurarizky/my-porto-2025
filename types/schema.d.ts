@@ -15,6 +15,6 @@ interface IPortfolio {
   link: string;
   stack: string[];
   category: string;
-  year: number;
+  year: number | string;
   type: string;
 }
