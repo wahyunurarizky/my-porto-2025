@@ -271,5 +271,18 @@
     "category": "Web Application",
     "year": "2024 - 2026",
     "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-levantier.png",
+    "title": "Levantier",
+    "description": "Create official website for Levantier, a company that provides brand distribution services in Indonesia",
+    "link": "https://levantier.id",
+    "stack": [
+      "Wordpress",
+      "Elementor"
+    ],
+    "category": "Web Application",
+    "year": "2026",
+    "type": "Personal Project"
   }
 ]
