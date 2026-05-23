@@ -284,5 +284,19 @@
     "category": "Web Application",
     "year": "2026",
     "type": "Personal Project"
+  },
+  {
+    "image": "/porto/porto-escrow.png",
+    "title": "Escrow Base Sepolia",
+    "description": "Create official website for Escrow Base Sepolia",
+    "link": "https://escrow-base-sepolia.vercel.app/",
+    "stack": [
+      "Solidity",
+      "Ethers JS",
+      "NextJS"
+    ],
+    "category": "Blockchain",
+    "year": "2026",
+    "type": "Personal Project"
   }
 ]
