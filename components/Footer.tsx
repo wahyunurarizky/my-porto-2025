@@ -28,11 +28,6 @@ export async function Footer() {
               GitHub
             </Link>
           </li>
-          <li className='hover:underline'>
-            <Link href='https://www.instagram.com/wahyunurarizky' target='_blank'>
-              Instagram
-            </Link>
-          </li>
         </ul>
         <div className='w-full justify-center flex text-center mt-10'>
           © {new Date().getFullYear()} Wahyu Nur Arizky. Some Rights Maybe Reserved, Forgive me
